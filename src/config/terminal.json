@@ -1,0 +1,18 @@
+[
+    "Welcome to 550W H50 Terminal (UEG 550W-H50-01 4.0.1.128-generic x64_128)",
+    "",
+    "* Documentation:  https://help.ueg.com/550w",
+    "* Management:  https://help.ueg.com/550w/landscape",
+    "* Support:  https://help.ueg.com/550w/support",
+    "* Contact author:  QQ 3084895416",
+    "",
+    "System information",
+    "System load:  3.32                Processes:              17387",
+    "Usage of /:   19.0% of 127.94PB   Users logged in:        1",
+    "Memory usage: 21%                 IP address for eth0:    11.4.5.1",
+    "Swap usage:   64%                 IP address for docker0: 172.17.0.1",
+    "",
+    "* Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s",
+    "just raised the bar for easy, resilient and secure K8s cluster deployment.",
+    "root@550w:~#"
+]

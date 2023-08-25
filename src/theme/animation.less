@@ -1,0 +1,32 @@
+@keyframes showWindow {
+    0% {opacity: 0; transform: scale(0.3);}
+    100% {opacity: 1; transform: scale(1);}
+}
+
+@keyframes fade {
+    0%,49% { opacity: 1; }
+    50%, 99% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes showResult {
+    0%{
+        width: 30px;
+        left: calc(50% - 15px);
+    } 
+    100%{
+        width: 500px;
+        left: calc(50% - 250px);
+    }
+}
+
+@keyframes showResultSmall {
+    0%{
+        width: 30px;
+        left: calc(50% - 15px);
+    } 
+    100%{
+        width: 200px;
+        left: calc(50% - 100px);
+    }
+}
